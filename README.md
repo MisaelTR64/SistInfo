@@ -1,3 +1,4 @@
 # SistInfo
 Fabián Misael Trujillo Zamudio - MisaelTR64
-Luis Alberto López Gonzalez - Luisillo
+Luis Alberto López González  - L356
+
